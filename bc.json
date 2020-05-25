@@ -101,7 +101,7 @@
         {
             "slug": "07-Apple_sharing",
             "title": "07-Apple_sharing",
-            "done": false,
+            "done": true,
             "path": "exercises/07-Apple_sharing",
             "translations": [
                 "es",
