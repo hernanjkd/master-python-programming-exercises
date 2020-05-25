@@ -90,7 +90,7 @@
         {
             "slug": "06-previous_and_next",
             "title": "06-previous_and_next",
-            "done": false,
+            "done": true,
             "path": "exercises/06-previous_and_next",
             "translations": [
                 "es",
