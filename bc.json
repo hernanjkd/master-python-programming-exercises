@@ -112,7 +112,7 @@
         {
             "slug": "07.1-square-value",
             "title": "07.1-square-value",
-            "done": false,
+            "done": true,
             "path": "exercises/07.1-square-value",
             "translations": [
                 "es",
@@ -123,7 +123,7 @@
         {
             "slug": "08-hours_and_minutes",
             "title": "08-hours_and_minutes",
-            "done": false,
+            "done": true,
             "path": "exercises/08-hours_and_minutes",
             "translations": [
                 "es",
