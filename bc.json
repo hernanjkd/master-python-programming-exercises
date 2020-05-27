@@ -145,7 +145,7 @@
         {
             "slug": "10-Two_digits",
             "title": "10-Two_digits",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Two_digits",
             "translations": [
                 "es",
