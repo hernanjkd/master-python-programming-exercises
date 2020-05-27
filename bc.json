@@ -134,7 +134,7 @@
         {
             "slug": "09-Two_timestamps",
             "title": "09-Two_timestamps",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Two_timestamps",
             "translations": [
                 "es",
